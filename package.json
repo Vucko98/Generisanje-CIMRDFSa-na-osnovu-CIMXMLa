@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "projekat-rdf-bazapodataka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "classic-level": "^1.3.0",
+    "events": "^3.3.0",
+    "fast-xml-parser": "^4.2.2",
+    "quadstore-comunica": "^3.1.0",
+    "rdfxml-streaming-parser": "^2.2.2"
+  }
+}
